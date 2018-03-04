@@ -12,4 +12,4 @@ This is a great place to be but unfortunately I am being upgraded!
 
 ### Contact me
 
-[//]: [email@domain.com](mailto:email@domain.com)
+<!-- [email@domain.com](mailto:email@domain.com)-->
