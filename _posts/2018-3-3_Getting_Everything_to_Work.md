@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2018-3-3_Getting_Everything_to_Work!
+permalink: /blog/
 ---
 
 This is where I will be updating the progress of my final project.
