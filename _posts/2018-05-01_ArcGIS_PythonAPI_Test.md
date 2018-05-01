@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ArcGIS Python Api'
+title: ArcGIS Python Api
 ---
 
 ```python
