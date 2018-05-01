@@ -8,7 +8,7 @@ title: ArcGIS Python API
 from IPython.display import display
 from arcgis.gis import GIS
 import os
-gis = GIS("https://www.arcgis.com", "obx2332xdo", "8d%*FITr4jxIllqIY7!&#")
+gis = GIS("https://www.arcgis.com", "username", "password")
 ```
 
 Creating new content
