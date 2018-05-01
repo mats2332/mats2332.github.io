@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: 'ArcGIS Python Api'
+---
 
 ```python
 from IPython.display import display
