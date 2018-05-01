@@ -1,3 +1,7 @@
+---
+layout: post
+title: ArcGIS Python API
+---
 
 
 ```python
