@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Plot LR with SNS
+---
 
 ```python
 %matplotlib inline
