@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Analysis LR
+---
 
 ```python
 #Mathew Suran
