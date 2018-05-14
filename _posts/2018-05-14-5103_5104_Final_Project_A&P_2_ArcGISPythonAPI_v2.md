@@ -190,7 +190,7 @@ map2.add_layer({"type":"FeatureLayer",
 map2
 ```
 
-
+![map2](map2.png)
 
 
 ```python
