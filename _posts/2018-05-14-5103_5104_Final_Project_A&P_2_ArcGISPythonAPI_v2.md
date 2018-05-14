@@ -1,12 +1,6 @@
 
 
-```python
-#Mathew Suran
-#DSSA-5103-91 Data Visualization
-#DSSA-5104-91 Data Analysis
-#Final Project-Analysis and Presentation
-#05/12/18
-```
+
 
 
 ```python
