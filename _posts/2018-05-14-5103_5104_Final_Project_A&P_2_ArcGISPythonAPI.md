@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018-05-14-ArcGIS PythonAPI in Jupyter Notebook!
+title: ArcGIS PythonAPI in Jupyter Notebook
 ---
 
 ```python
