@@ -1,7 +1,7 @@
-
-
-
-
+---
+layout: post
+title: ArcGIS PythonAPI in Jupyter Notebook v2
+---
 
 ```python
 import os
